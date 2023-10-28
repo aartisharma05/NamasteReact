@@ -1,0 +1,11 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "description": "this is react practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Aarti Sharma",
+  "license": "ISC"
+}
