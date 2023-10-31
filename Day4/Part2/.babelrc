@@ -1,0 +1,6 @@
+{
+  // "plugins": [["transform-remove-console",
+  //  { "exclude": ["error", "warn"] }]]
+
+  //I commented this as i want my code to show console.log
+}
