@@ -1,0 +1,22 @@
+{
+  "name": "namastereactaarti",
+  "version": "1.0.0",
+  "description": "This is practice code by Aarti",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "author": "Aarti",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "parcel": "^2.10.1",
+    "process": "^0.11.10"
+  }
+}
